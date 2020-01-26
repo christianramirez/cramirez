@@ -18,6 +18,19 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
+        label: Download Resume
+        url: >-
+          https://drive.google.com/file/d/1JUQGcfTrzG8DdmzOqIZHC19IgqW5EKQb/view?usp=sharing
+    component: Mission
+    content: |-
+      For the past seventeen years, I have planned, designed, developed,\
+      tested, and oversaw the creation of digital products and services for\
+      community media companies from all around the country.
+    title: 17 Years of Experience in Digital Media
+    type: mission
+  - actions:
+      - is_primary: false
+        is_scrolly: false
         label: Details
         url: /generic
     component: Features
@@ -62,19 +75,6 @@ sections:
       litora torquent et conubia etiam nostra.
     title: Duis torquent
     type: spotlight
-  - actions:
-      - is_primary: false
-        is_scrolly: false
-        label: Download Resume
-        url: >-
-          https://drive.google.com/file/d/1JUQGcfTrzG8DdmzOqIZHC19IgqW5EKQb/view?usp=sharing
-    component: Mission
-    content: |-
-      For the past seventeen years, I have planned, designed, developed,\
-      tested, and oversaw the creation of digital products and services for\
-      community media companies from all around the country.
-    title: 17 Years of Experience in Digital Media
-    type: mission
 menus:
   main:
     title: Home
