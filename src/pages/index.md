@@ -12,7 +12,7 @@ sections:
       I’malso a husband, proud father, sci-fi fan,\
       amateur astronomer, digital marketer,\
       and passionate webdesigner.
-    img_path: /images/CR_Image.jpg
+    img_path: /images/GLO_9196-(1).jpg
     title: Christian Ramirez
     type: intro
   - actions:
