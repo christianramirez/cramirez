@@ -19,18 +19,6 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: LinkedIn Profile
-        url: 'https://www.linkedin.com/in/christianramirez/'
-    component: Mission
-    content: |-
-      For the past seventeen years, I have planned, designed, developed,\
-      tested, and oversaw the creation of digital products and services for\
-      community media companies from all around the country.
-    title: 17 Years of Experience in Digital Media
-    type: mission
-  - actions:
-      - is_primary: false
-        is_scrolly: false
         label: Details
         url: /generic
     component: Features
@@ -75,6 +63,18 @@ sections:
       litora torquent et conubia etiam nostra.
     title: Duis torquent
     type: spotlight
+  - actions:
+      - is_primary: false
+        is_scrolly: false
+        label: LinkedIn Profile
+        url: 'https://www.linkedin.com/in/christianramirez/'
+    component: Mission
+    content: |-
+      For the past seventeen years, I have planned, designed, developed,\
+      tested, and oversaw the creation of digital products and services for\
+      community media companies from all around the country.
+    title: 17 Years of Experience in Digital Media
+    type: mission
 menus:
   main:
     title: Home
