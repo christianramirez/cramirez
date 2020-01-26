@@ -7,10 +7,11 @@ sections:
         label: Get Started
         url: /generic
     component: Intro
-    content: >-
-      I’m the Digital Campaign Manager for the Arizona Daily Star in Tucson,
-      Arizona. I’malso a husband, proud father, sci-fi fan, amateur astronomer,
-      digital marketer, and passionate webdesigner.
+    content: |-
+      I’m a Sales and Business Development Manager. \
+      I’malso a husband, proud father, sci-fi fan,\
+      amateur astronomer, digital marketer,\
+      and passionate webdesigner.
     img_path: /images/CR_Image.jpg
     title: Christian Ramirez
     type: intro
