@@ -61,7 +61,7 @@ sections:
     subtitle: |-
       Rutrum facilisis. Class aptent taciti sociosqu  
       litora torquent et conubia etiam nostra.
-    title: Duis torquent
+    title: 'Professional Background:'
     type: spotlight
   - actions:
       - is_primary: false
