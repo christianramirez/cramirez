@@ -9,9 +9,9 @@ sections:
     component: Intro
     content: |-
       I’m a Sales and Business Development Manager. \
-      I’malso a husband, proud father, sci-fi fan,\
+      I’m also a husband, proud father, sci-fi fan,\
       amateur astronomer, digital marketer,\
-      and passionate webdesigner.
+      and passionate web designer.
     img_path: /images/GLO_9196-(1).jpg
     title: Christian Ramirez
     type: intro
