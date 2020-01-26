@@ -11,7 +11,7 @@ sections:
       I’m the Digital Campaign Manager for the Arizona Daily Star in Tucson,
       Arizona. I’malso a husband, proud father, sci-fi fan, amateur astronomer,
       digital marketer, and passionate webdesigner.
-    img_path: /images/Ramirez_family.jpg
+    img_path: /images/CR_Image.jpg
     title: Christian Ramirez
     type: intro
   - actions:
