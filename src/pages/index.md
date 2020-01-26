@@ -69,10 +69,10 @@ sections:
         url: /generic
     component: Mission
     content: |-
-      Aptent taciti sociosqu litora torquent et conubia sed etiam.  
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam  
+      Aptent taciti sociosqu litora torquent et conubia sed etiam.\
+      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam\
       turpis mauris, ultricies erat malesuada quis.
-    title: Amet ullamcorper
+    title: 17 Years of Experience in Digital Media
     type: mission
 menus:
   main:
