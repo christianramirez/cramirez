@@ -4,8 +4,9 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Linkedin Profile
-        url: 'https://www.linkedin.com/in/christianramirez/'
+        label: Download Resume
+        url: >-
+          https://drive.google.com/file/d/1JUQGcfTrzG8DdmzOqIZHC19IgqW5EKQb/view?usp=sharing
     component: Intro
     content: |-
       I’m a Sales and Business Development Manager. \
@@ -18,9 +19,8 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Download Resume
-        url: >-
-          https://drive.google.com/file/d/1JUQGcfTrzG8DdmzOqIZHC19IgqW5EKQb/view?usp=sharing
+        label: LinkedIn Profile
+        url: 'https://www.linkedin.com/in/christianramirez/'
     component: Mission
     content: |-
       For the past seventeen years, I have planned, designed, developed,\
