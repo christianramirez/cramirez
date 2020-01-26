@@ -4,8 +4,8 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Get Started
-        url: /generic
+        label: Linkedin Profile
+        url: 'https://www.linkedin.com/in/christianramirez/'
     component: Intro
     content: |-
       I’m a Sales and Business Development Manager. \
