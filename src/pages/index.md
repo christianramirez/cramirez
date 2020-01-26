@@ -69,9 +69,9 @@ sections:
         url: /generic
     component: Mission
     content: |-
-      Aptent taciti sociosqu litora torquent et conubia sed etiam.\
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam\
-      turpis mauris, ultricies erat malesuada quis.
+      For the past seventeen years, I have planned, designed, developed,\
+      tested, and oversaw the creation of digital products and services for\
+      community media companies from all around the country.
     title: 17 Years of Experience in Digital Media
     type: mission
 menus:
