@@ -65,8 +65,9 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Get Started
-        url: /generic
+        label: Download Resume
+        url: >-
+          https://drive.google.com/file/d/1JUQGcfTrzG8DdmzOqIZHC19IgqW5EKQb/view?usp=sharing
     component: Mission
     content: |-
       For the past seventeen years, I have planned, designed, developed,\
