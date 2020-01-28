@@ -9,7 +9,7 @@ sections:
           https://drive.google.com/file/d/1JUQGcfTrzG8DdmzOqIZHC19IgqW5EKQb/view?usp=sharing
     component: Intro
     content: |-
-      I am a digital marketing professional. \
+      I'm a digital marketing professional. \
       I’m also a husband, proud father, sci-fi fan,\
       amateur astronomer, digital marketer,\
       and passionate web designer.
