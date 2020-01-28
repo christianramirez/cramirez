@@ -58,9 +58,10 @@ sections:
       In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
       sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
       Etiam tristique eu nibh.
-    subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu  
-      litora torquent et conubia etiam nostra.
+    subtitle: >-
+      I am well-versed in digital analytics and reporting, website design and
+      development, graphic design, and working with people from all around the
+      country.
     title: 'Professional Background:'
     type: spotlight
   - actions:
