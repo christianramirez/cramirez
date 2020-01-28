@@ -59,9 +59,9 @@ sections:
       sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
       Etiam tristique eu nibh.
     subtitle: >-
-      I am well-versed in digital analytics and reporting, website design and
-      development, graphic design, and working with people from all around the
-      country.
+      I am well-versed in digital marketing, analytics and reporting, website
+      design and development, graphic design, and working with people from all
+      around the country.
     title: 'Professional Background:'
     type: spotlight
   - actions:
